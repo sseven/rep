@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<security>
+	<!-- 不受权限管理的路径 -->
+	<normal>
+		<url>/resources</url>
+		<url>/js</url>
+		<url>/img</url>
+		<url>/editorUpload</url>
+		<url>/editor/upload</url>
+		<url>/upload</url>
+		<url>/index.jsp</url>
+		<url>/toLogin</url>
+		<url>/login</url>
+		<url>/loginout</url>
+		<url>/verifyCode</url>
+	</normal>
+	<!-- 不受权限管理的资源文件类型 -->
+	 
+		<resources>
+		<r>js</r>
+		<r>css</r>
+		<r>html</r>
+		<r>gif</r>
+		<r>jpg</r>
+		<r>png</r>
+		<r>ico</r>
+		<r>txt</r>
+		</resources>
+
+</security>

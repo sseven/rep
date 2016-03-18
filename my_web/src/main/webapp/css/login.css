@@ -1,0 +1,49 @@
+
+.loginOrRegister {
+    background: none repeat scroll 0 0 #fff;
+    border: 0px solid #4879a3;
+    height: 241px;
+    left: 50%;
+    margin-left: -205px!important;
+	margin-top: -120px!important;
+    padding: 0px 0px;
+    position: fixed !important;
+    top: 50%;
+    width: 410px;
+    z-index: 9999;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: #fff 1px 1px 4px;
+	-moz-box-shadow: #fff 1px 1px 4px;
+	box-shadow: #fff 1px 1px 4px;
+}
+
+#loginTable .inputText {
+	font-size: 12px;
+	height: 24px;
+	line-height: 24px;
+	vertical-align: middle;
+	border: solid #fff 0px;
+	border-left-width: 4px;
+	background-color: #fff;
+}
+
+#loginTable .inputDiv {
+	margin-left : 4px;
+	display: block;
+	border: solid #838B8B 1px;
+	height: 24px;
+	width: 180px;
+}
+
+#loginTable .inputCodeDiv {
+	margin-left : 4px;
+	border: solid #838B8B 1px;
+	height: 24px;
+	width: 45px;
+	color: #4879a3;
+}
+
+#loginTable #verifyCodeUl img {
+	margin-top: 2px;
+}
